@@ -1,0 +1,70 @@
+{
+  "pipeline_id": "aa1562cd-a0e2-495f-bc46-235ccef18885",
+  "spec": {
+    "id": "aa1562cd-a0e2-495f-bc46-235ccef18885",
+    "pipeline_type": "MANAGED_INGESTION",
+    "name": "bronze_ingest_rds_support_tickets",
+    "ingestion_definition": {
+      "connection_name": "rds_postgres_assessment",
+      "objects": [
+        {
+          "table": {
+            "source_catalog": "assessment_db",
+            "source_schema": "public",
+            "source_table": "support_tickets",
+            "destination_catalog": "main",
+            "destination_schema": "tpt_bronze",
+            "destination_table": "support_tickets",
+            "table_configuration": {
+              "primary_keys": [
+                "ticket_id"
+              ],
+              "query_based_connector_config": {
+                "cursor_columns": [
+                  "updated_at"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "source_type": "POSTGRESQL"
+    },
+    "schema": "tpt_bronze",
+    "channel": "PREVIEW",
+    "catalog": "main"
+  },
+  "state": "IDLE",
+  "name": "bronze_ingest_rds_support_tickets",
+  "creator_user_name": "corzosal@gmail.com",
+  "latest_updates": [
+    {
+      "update_id": "9ddc1ea2-9092-41db-b95e-a100dbc41f4b",
+      "state": "COMPLETED",
+      "creation_time": "2026-08-20T23:45:01.789Z"
+    },
+    {
+      "update_id": "8bfc5ba8-9e49-4f8e-a78a-e5d8c9574262",
+      "state": "COMPLETED",
+      "creation_time": "2026-08-20T22:47:25.140Z"
+    },
+    {
+      "update_id": "3f64f1c3-6a98-43da-b717-43648b07b3c6",
+      "state": "FAILED",
+      "creation_time": "2026-08-20T22:46:04.335Z"
+    },
+    {
+      "update_id": "77d7e5ff-76a3-4bfa-bb56-be5c6061a89b",
+      "state": "FAILED",
+      "creation_time": "2026-08-20T22:45:23.766Z"
+    },
+    {
+      "update_id": "b97a57d5-338e-4669-ae38-371e5da0cdc2",
+      "state": "FAILED",
+      "creation_time": "2026-08-20T22:45:02.624Z"
+    }
+  ],
+  "last_modified": 1787162341970,
+  "run_as_user_name": "corzosal@gmail.com",
+  "effective_publishing_mode": "DEFAULT_PUBLISHING_MODE"
+}

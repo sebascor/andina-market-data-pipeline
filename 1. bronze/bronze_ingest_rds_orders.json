@@ -1,0 +1,54 @@
+{
+  "pipeline_id": "74f2643c-4132-4e25-a3d8-6a5b5ee128b1",
+  "spec": {
+    "id": "74f2643c-4132-4e25-a3d8-6a5b5ee128b1",
+    "pipeline_type": "MANAGED_INGESTION",
+    "name": "bronze_ingest_rds_orders",
+    "ingestion_definition": {
+      "connection_name": "rds_postgres_assessment",
+      "objects": [
+        {
+          "table": {
+            "source_catalog": "assessment_db",
+            "source_schema": "public",
+            "source_table": "order_items",
+            "destination_catalog": "main",
+            "destination_schema": "tpt_bronze",
+            "destination_table": "order_items",
+            "table_configuration": {
+              "primary_keys": ["order_item_id"],
+              "query_based_connector_config": {
+                "cursor_columns": ["created_at"]
+              }
+            }
+          }
+        },
+        {
+          "table": {
+            "source_catalog": "assessment_db",
+            "source_schema": "public",
+            "source_table": "orders",
+            "destination_catalog": "main",
+            "destination_schema": "tpt_bronze",
+            "destination_table": "orders",
+            "table_configuration": {
+              "primary_keys": ["order_id"],
+              "query_based_connector_config": {
+                "cursor_columns": ["updated_at"]
+              }
+            }
+          }
+        }
+      ],
+      "source_type": "POSTGRESQL"
+    },
+    "schema": "tpt_bronze",
+    "channel": "PREVIEW",
+    "catalog": "main"
+  },
+  "state": "IDLE",
+  "name": "bronze_ingest_rds_orders",
+  "creator_user_name": "corzosal@gmail.com",
+  "run_as_user_name": "corzosal@gmail.com",
+  "effective_publishing_mode": "DEFAULT_PUBLISHING_MODE"
+}

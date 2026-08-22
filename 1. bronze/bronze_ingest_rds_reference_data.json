@@ -1,0 +1,36 @@
+{
+  "pipeline_id": "3422020e-071d-433e-b8fe-60d802e642f7",
+  "pipeline_type": "MANAGED_INGESTION",
+  "name": "bronze_ingest_rds_reference_data",
+  "catalog": "main",
+  "schema": "tpt_bronze",
+  "ingestion_definition": {
+    "connection_name": "rds_postgres_assessment",
+    "source_type": "POSTGRESQL",
+    "objects": [
+      {
+        "table": {
+          "source_catalog": "assessment_db",
+          "source_schema": "public",
+          "source_table": "customers",
+          "destination_catalog": "main",
+          "destination_schema": "tpt_bronze",
+          "destination_table": "customers"
+        }
+      },
+      {
+        "table": {
+          "source_catalog": "assessment_db",
+          "source_schema": "public",
+          "source_table": "products",
+          "destination_catalog": "main",
+          "destination_schema": "tpt_bronze",
+          "destination_table": "products",
+          "table_configuration": {
+            "primary_keys": ["sku"]
+          }
+        }
+      }
+    ]
+  }
+}

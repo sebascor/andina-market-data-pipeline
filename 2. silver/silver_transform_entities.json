@@ -1,0 +1,20 @@
+{
+  "id": "adff94b1-0c3d-41c4-9251-4cc933ae2bdf",
+  "pipeline_type": "WORKSPACE",
+  "name": "silver_transform_entities",
+  "libraries": [
+    {
+      "glob": {
+        "include": "/Workspace/Users/corzosal@gmail.com/silver_transform_entities/transformations/**"
+      }
+    }
+  ],
+  "schema": "default",
+  "continuous": false,
+  "development": false,
+  "photon": true,
+  "channel": "CURRENT",
+  "catalog": "workspace",
+  "serverless": true,
+  "root_path": "/Workspace/Users/corzosal@gmail.com/silver_transform_entities"
+}

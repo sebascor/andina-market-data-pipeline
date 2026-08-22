@@ -1,0 +1,26 @@
+ticket_id,order_id,subject,body_text,status,customer_id,created_at,updated_at
+TCK-00001,ORD-000048,No me llega el correo de confirmación,"No he recibido ningún correo desde que hice la compra, ¿está todo bien con mi pedido?",open,CUST-00030,2026-07-11 09:13:53,2026-07-11 09:13:53
+TCK-00002,ORD-000139,Solicitud de devolución,"Quiero devolver este producto porque no era lo que esperaba, ¿cuál es el proceso?",resolved,CUST-00044,2026-04-21 06:22:15,2026-04-26 20:43:15
+TCK-00003,ORD-000016,Pregunta sobre garantía,¿Cuánto tiempo de garantía tiene este producto y cómo la hago efectiva?,resolved,CUST-00010,2026-06-07 08:41:20,2026-06-07 09:15:20
+TCK-00004,ORD-000135,Producto llegó dañado,El producto llegó con la caja abierta y una pieza rota. Adjunto que ya reporté esto por otro canal.,open,CUST-00060,2026-06-01 13:37:15,2026-06-01 13:37:15
+TCK-00005,ORD-000009,Quiero cambiar la dirección de entrega,"Necesito cambiar la dirección de entrega porque me mudé esta semana, ¿todavía es posible?",open,CUST-00007,2026-08-16 19:34:28,2026-08-16 19:34:28
+TCK-00006,ORD-000020,Producto distinto al que compré,El color del producto que llegó no corresponde al que aparecía en la publicación.,in_progress,CUST-00022,2025-11-01 13:15:35,2025-11-01 17:31:35
+TCK-00007,ORD-000013,Producto llegó dañado,El producto llegó con la caja abierta y una pieza rota. Adjunto que ya reporté esto por otro canal.,closed,CUST-00051,2026-03-11 14:40:22,2026-03-12 23:06:22
+TCK-00008,ORD-000002,Retraso en el envío,"Mi pedido debía llegar hace tres días y el estado sigue igual, estoy preocupado.",closed,CUST-00003,2026-04-14 09:25:12,2026-04-15 21:28:12
+TCK-00009,ORD-000106,Quiero cambiar la dirección de entrega,"Necesito cambiar la dirección de entrega porque me mudé esta semana, ¿todavía es posible?",in_progress,CUST-00029,2026-06-07 18:42:04,2026-06-11 23:40:04
+TCK-00010,ORD-000036,Producto llegó dañado,El producto llegó con la caja abierta y una pieza rota. Adjunto que ya reporté esto por otro canal.,closed,CUST-00020,2026-04-30 01:23:38,2026-05-02 06:09:38
+TCK-00011,ORD-000060,Pregunta sobre garantía,¿Cuánto tiempo de garantía tiene este producto y cómo la hago efectiva?,open,CUST-00003,2026-06-06 04:50:40,2026-06-06 04:50:40
+TCK-00012,ORD-000018,Pedido no ha llegado,"Hola, hice mi pedido hace varios días y todavía no tengo información de cuándo llega. ¿Me pueden ayudar?",resolved,CUST-00043,2026-06-04 09:04:43,2026-06-06 06:11:43
+TCK-00013,ORD-000039,Producto llegó dañado,El producto llegó con la caja abierta y una pieza rota. Adjunto que ya reporté esto por otro canal.,closed,CUST-00020,2025-07-21 08:51:21,2025-07-26 11:15:21
+TCK-00014,ORD-000003,Producto distinto al que compré,El color del producto que llegó no corresponde al que aparecía en la publicación.,closed,CUST-00005,2026-08-06 05:56:22,2026-08-06 08:11:22
+TCK-00015,ORD-000056,Producto llegó dañado,El producto llegó con la caja abierta y una pieza rota. Adjunto que ya reporté esto por otro canal.,closed,CUST-00042,2025-07-19 20:33:39,2025-07-21 13:46:39
+TCK-00016,ORD-000130,Quiero cambiar la dirección de entrega,"Necesito cambiar la dirección de entrega porque me mudé esta semana, ¿todavía es posible?",closed,CUST-00023,2026-02-23 01:23:06,2026-02-24 01:59:06
+TCK-00017,ORD-000117,Quiero cancelar mi pedido,"Ya no necesito este pedido, quisiera cancelarlo antes de que se despache.",closed,CUST-00033,2026-08-09 22:19:04,2026-08-12 22:54:04
+TCK-00018,ORD-000096,Producto llegó dañado,El producto llegó con la caja abierta y una pieza rota. Adjunto que ya reporté esto por otro canal.,in_progress,CUST-00044,2025-07-23 03:58:41,2025-07-25 04:54:41
+TCK-00019,ORD-000148,Quiero cancelar mi pedido,"Ya no necesito este pedido, quisiera cancelarlo antes de que se despache.",closed,CUST-00034,2026-06-04 12:16:28,2026-06-09 22:05:28
+TCK-00020,ORD-000124,Producto distinto al que compré,El color del producto que llegó no corresponde al que aparecía en la publicación.,in_progress,CUST-00042,2025-11-24 18:07:39,2025-11-26 06:21:39
+TCK-00021,ORD-000125,Quiero cancelar mi pedido,"Ya no necesito este pedido, quisiera cancelarlo antes de que se despache.",closed,CUST-00054,2025-11-02 06:09:56,2025-11-07 01:33:56
+TCK-00022,ORD-000005,Pregunta sobre garantía,¿Cuánto tiempo de garantía tiene este producto y cómo la hago efectiva?,closed,CUST-00057,2026-07-20 23:21:00,2026-07-22 10:58:00
+TCK-00023,ORD-000143,Quiero cancelar mi pedido,"Ya no necesito este pedido, quisiera cancelarlo antes de que se despache.",in_progress,CUST-00012,2026-07-24 04:08:48,2026-07-28 23:14:48
+TCK-00024,ORD-000069,Pregunta sobre garantía,¿Cuánto tiempo de garantía tiene este producto y cómo la hago efectiva?,resolved,CUST-00050,2026-08-10 21:43:21,2026-08-16 13:43:21
+TCK-00025,ORD-000071,Cobro duplicado en la tarjeta,"Veo dos cobros en mi tarjeta por el mismo pedido, por favor revisen y reembolsen el duplicado.",in_progress,CUST-00003,2026-08-08 07:29:16,2026-08-10 11:13:16

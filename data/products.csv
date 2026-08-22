@@ -1,0 +1,34 @@
+sku,name,category,price,description,status,created_at
+SKU-0001,Audífonos Bluetooth,Electrónica,87.17,"Audífonos Bluetooth - categoría Electrónica, ideal para uso diario.",active,2025-01-08 07:39:34
+SKU-0002,Smartwatch,Electrónica,135.72,"Smartwatch - categoría Electrónica, ideal para uso diario.",out_of_stock,2025-02-23 10:21:03
+SKU-0003,Cargador USB-C,Electrónica,33.88,"Cargador USB-C - categoría Electrónica, ideal para uso diario.",active,2025-02-22 11:39:40
+SKU-0004,Parlante portátil,Electrónica,251.63,"Parlante portátil - categoría Electrónica, ideal para uso diario.",discontinued,2025-01-23 22:48:14
+SKU-0005,Mouse inalámbrico,Electrónica,54.06,"Mouse inalámbrico - categoría Electrónica, ideal para uso diario.",active,2025-01-21 18:04:02
+SKU-0006,Teclado mecánico,Electrónica,260.07,"Teclado mecánico - categoría Electrónica, ideal para uso diario.",out_of_stock,2025-01-16 23:37:56
+SKU-0007,Power bank 10000mAh,Electrónica,116.8,"Power bank 10000mAh - categoría Electrónica, ideal para uso diario.",discontinued,2025-01-26 17:58:04
+SKU-0008,Tablet 10 pulgadas,Electrónica,278.32,"Tablet 10 pulgadas - categoría Electrónica, ideal para uso diario.",out_of_stock,2025-01-28 16:40:43
+SKU-0009,Set de sábanas,Hogar,129.79,"Set de sábanas - categoría Hogar, ideal para uso diario.",discontinued,2025-02-23 23:02:02
+SKU-0010,Cafetera eléctrica,Hogar,200.25,"Cafetera eléctrica - categoría Hogar, ideal para uso diario.",active,2025-01-19 10:29:38
+SKU-0011,Licuadora,Hogar,92.53,"Licuadora - categoría Hogar, ideal para uso diario.",discontinued,2025-02-26 05:35:16
+SKU-0012,Juego de ollas,Hogar,222.04,"Juego de ollas - categoría Hogar, ideal para uso diario.",active,2025-01-31 10:45:07
+SKU-0013,Aspiradora portátil,Hogar,21.86,"Aspiradora portátil - categoría Hogar, ideal para uso diario.",active,2025-02-18 19:43:34
+SKU-0014,Camiseta básica,Moda,276.22,"Camiseta básica - categoría Moda, ideal para uso diario.",active,2025-01-06 12:32:20
+SKU-0015,Jean slim fit,Moda,288.43,"Jean slim fit - categoría Moda, ideal para uso diario.",active,2025-01-19 01:00:12
+SKU-0016,Chaqueta impermeable,Moda,25.21,"Chaqueta impermeable - categoría Moda, ideal para uso diario.",active,2025-01-23 20:03:53
+SKU-0017,Tenis running,Moda,124.11,"Tenis running - categoría Moda, ideal para uso diario.",discontinued,2025-02-25 07:26:23
+SKU-0018,Gorra,Moda,77.63,"Gorra - categoría Moda, ideal para uso diario.",active,2025-01-08 23:02:06
+SKU-0019,Balón de fútbol,Deportes,128.67,"Balón de fútbol - categoría Deportes, ideal para uso diario.",active,2025-02-20 18:10:19
+SKU-0020,Colchoneta de yoga,Deportes,98.33,"Colchoneta de yoga - categoría Deportes, ideal para uso diario.",active,2025-01-31 12:06:05
+SKU-0021,Mancuernas 5kg,Deportes,75.41,"Mancuernas 5kg - categoría Deportes, ideal para uso diario.",active,2025-01-30 03:02:37
+SKU-0022,Bicicleta estática,Deportes,139.88,"Bicicleta estática - categoría Deportes, ideal para uso diario.",out_of_stock,2025-01-08 01:02:15
+SKU-0023,Crema hidratante,Belleza,7.75,"Crema hidratante - categoría Belleza, ideal para uso diario.",active,2025-02-24 15:52:12
+SKU-0024,Set de brochas,Belleza,298.85,"Set de brochas - categoría Belleza, ideal para uso diario.",active,2025-01-21 16:41:07
+SKU-0025,Shampoo anticaída,Belleza,154.24,"Shampoo anticaída - categoría Belleza, ideal para uso diario.",active,2025-02-03 21:14:58
+SKU-0026,Perfume 100ml,Belleza,264.85,"Perfume 100ml - categoría Belleza, ideal para uso diario.",out_of_stock,2025-02-05 21:03:37
+SKU-0027,Café molido 500g,Supermercado,89.07,"Café molido 500g - categoría Supermercado, ideal para uso diario.",active,2025-02-22 17:47:22
+SKU-0028,Aceite de oliva 1L,Supermercado,212.54,"Aceite de oliva 1L - categoría Supermercado, ideal para uso diario.",active,2025-02-21 08:31:16
+SKU-0029,Arroz 1kg,Supermercado,7.31,"Arroz 1kg - categoría Supermercado, ideal para uso diario.",out_of_stock,2025-01-30 01:36:10
+SKU-0030,Panela orgánica,Supermercado,279.87,"Panela orgánica - categoría Supermercado, ideal para uso diario.",active,2025-01-14 00:55:15
+SKU-0031,Rompecabezas 500 piezas,Juguetes,83.02,"Rompecabezas 500 piezas - categoría Juguetes, ideal para uso diario.",out_of_stock,2025-02-23 17:06:16
+SKU-0032,Carro a control remoto,Juguetes,50.86,"Carro a control remoto - categoría Juguetes, ideal para uso diario.",active,2025-01-21 10:48:09
+SKU-0033,Set de bloques armables,Juguetes,216.7,"Set de bloques armables - categoría Juguetes, ideal para uso diario.",active,2025-01-26 15:07:37

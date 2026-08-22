@@ -1,0 +1,66 @@
+{
+  "pipeline_id": "3cc29888-fef0-41de-baa5-1261228187ea",
+  "spec": {
+    "id": "3cc29888-fef0-41de-baa5-1261228187ea",
+    "pipeline_type": "MANAGED_INGESTION",
+    "name": "bronze_ingest_rds_payments",
+    "ingestion_definition": {
+      "connection_name": "rds_postgres_assessment",
+      "objects": [
+        {
+          "table": {
+            "source_catalog": "assessment_db",
+            "source_schema": "public",
+            "source_table": "payments",
+            "destination_catalog": "main",
+            "destination_schema": "tpt_bronze",
+            "destination_table": "payments",
+            "table_configuration": {
+              "primary_keys": ["event_id"],
+              "query_based_connector_config": {
+                "cursor_columns": ["event_timestamp"]
+              }
+            }
+          }
+        }
+      ],
+      "source_type": "POSTGRESQL"
+    },
+    "schema": "tpt_bronze",
+    "channel": "PREVIEW",
+    "catalog": "main"
+  },
+  "state": "IDLE",
+  "name": "bronze_ingest_rds_payments",
+  "creator_user_name": "corzosal@gmail.com",
+  "latest_updates": [
+    {
+      "update_id": "7ee627e9-bc1f-4c2c-a993-9f34efd5a859",
+      "state": "COMPLETED",
+      "creation_time": "2026-08-20T23:59:59.447Z"
+    },
+    {
+      "update_id": "53b0f076-45cf-4896-937b-2806bcf705ee",
+      "state": "COMPLETED",
+      "creation_time": "2026-08-20T23:54:59.519Z"
+    },
+    {
+      "update_id": "474f6f92-2188-43ce-b46b-c398b72e0221",
+      "state": "COMPLETED",
+      "creation_time": "2026-08-20T23:49:59.437Z"
+    },
+    {
+      "update_id": "aff4a4c4-54a4-4794-b380-a945f829c572",
+      "state": "COMPLETED",
+      "creation_time": "2026-08-20T23:45:01.789Z"
+    },
+    {
+      "update_id": "836447c2-01c6-4667-884d-9f2453aaaf21",
+      "state": "COMPLETED",
+      "creation_time": "2026-08-20T23:40:00.471Z"
+    }
+  ],
+  "last_modified": 1787162979551,
+  "run_as_user_name": "corzosal@gmail.com",
+  "effective_publishing_mode": "DEFAULT_PUBLISHING_MODE"
+}

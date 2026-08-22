@@ -1,0 +1,66 @@
+source_row_id,user_id,name,email,phone,city,country,signup_date,segment,updated_at
+1,CUST-00052,Alfonso Castro,alfonso.castro52@mail.com,7378263982,Cali,Colombia,2025-02-25 00:52:36,recurrente,2025-03-26 05:29:36
+2,CUST-00056,Edgardo Pineda Murcia,edgardo.pineda.murcia56@mail.com,8091343161,Valparaíso,Chile,2025-11-26 00:04:40,recurrente,2026-06-20 18:27:40
+3,CUST-00047,Óscar Correa,oscar.correa47@mail.com,6488771906,Guayaquil,Ecuador,2025-12-07 06:46:38,inactivo,2026-06-03 22:18:38
+4,CUST-00003,Luis Sanabria Agudelo,luis.sanabria.agudelo3@mail.com,7816184959,Quito,Ecuador,2026-04-04 15:34:41,recurrente,2026-04-04 15:34:41
+5,CUST-00048,María Burgos,maria.burgos48@mail.com,4902787429,Santiago,Chile,2025-07-12 13:17:44,nuevo,2025-11-05 10:02:44
+6,CUST-00054,Guillermina Cynthia Griego Vázquez,guillermina.cynthia.griego.vazquez54@mail.com,3605766270,Puebla,Mexico,2025-07-08 17:47:48,vip,2025-08-13 05:59:48
+7,CUST-00022,Ernesto Mercado Patiño,ernesto.mercado.patino22@mail.com,4216073375,Monterrey,Mexico,2025-02-13 10:45:32,nuevo,2025-04-22 22:32:32
+8,CUST-00027,Sofía Gutiérrez Vergara,sofia.gutierrez.vergara27@mail.com,1343320037,Trujillo,Perú,2026-03-31 01:28:21,recurrente,2026-03-31 01:28:21
+9,CUST-00045,Álvaro Sánchez,alvaro.sanchez45@mail.com,8120679740,Córdoba,Argentina,2025-06-14 12:12:16,inactivo,2025-07-03 21:35:16
+10,CUST-00041,Antonio González,antonio.gonzalez41@mail.com,5182337498,Lima,Perú,2025-02-14 23:48:12,nuevo,2025-05-18 09:42:12
+11,CUST-00037,Álvaro García Jaimes,alvaro.garcia.jaimes37@mail.com,6716572628,Buenos Aires,argentina,2026-05-01 16:26:25,nuevo,2026-05-01 16:26:25
+12,CUST-00040,Daniel José Jiménez Parra,daniel.jose.jimenez.parra40@mail.com,4957885685,Bogotá,Colombia,2025-10-09 22:27:06,inactivo,2025-12-31 12:42:06
+13,CUST-00018,Johana Patricia Romero García,johana.patricia.romero.garcia18@mail.com,5427849808,Guayaquil,Ecuador,2026-06-30 02:52:43,inactivo,2026-08-17 00:00:00
+14,CUST-00036,Margoth Escobar,margoth.escobar36@mail.com,6319314919,Guayaquil,Ecuador,2026-01-24 19:36:05,vip,2026-01-24 19:36:05
+15,CUST-00028,Vicente Escobar Pinzón,vicente.escobar.pinzon28@mail.com,7632016328,Córdoba,Argentina,2025-10-09 04:06:10,nuevo,2025-10-09 04:06:10
+16,CUST-00059,Leonardo Salazar,leonardo.salazar59@mail.com,7436713695,Lima,peru,2025-07-13 03:17:24,nuevo,2025-07-13 03:17:24
+17,CUST-00051,Walter Jairo Gómez Méndez,walter.jairo.gomez.mendez51@mail.com,2480861317,Quito,Ecuador,2025-06-27 19:47:03,nuevo,2025-12-27 00:00:03
+18,CUST-00004,Ximena Jacqueline Ordóñez Gaviria,ximena.jacqueline.ordonez.gaviria4@mail.com,4752553419,Bogotá,Colombia,2025-06-19 19:42:26,nuevo,2025-06-19 19:42:26
+19,CUST-00032,Jesús Jhon Galindo,jesus.jhon.galindo32@mail.com,8893734670,Concepción,Chile,2025-12-30 13:04:56,recurrente,2026-04-30 00:03:56
+20,CUST-00025,Rosa María Vergara Valencia,rosa.maria.vergara.valencia25@mail.com,1484656482,Concepción,Chile,2025-12-23 09:37:06,nuevo,2025-12-23 09:37:06
+21,CUST-00011,Luis David Quintero Fernández,luis.david.quintero.fernandez11@mail.com,9301031051,Barranquilla,Colombia,2026-02-21 12:00:58,nuevo,2026-08-17 00:00:00
+22,CUST-00058,Edwin Moreno Barreto,edwin.moreno.barreto58@mail.com,3747407482,Quito,Ecuador,2025-02-17 01:54:07,recurrente,2025-08-05 20:58:07
+23,CUST-00020,José Quintero,jose.quintero20@mail.com,4278680112,Rosario,Argentina,2025-07-10 03:36:23,nuevo,2025-11-21 05:28:23
+24,CUST-00034,Lorena Claudia Cuéllar Castro,lorena.claudia.cuellar.castro34@mail.com,4170805310,Guayaquil,Ecuador,2026-05-13 20:23:38,recurrente,2026-05-13 20:23:38
+25,CUST-00021,Fernanda Gómez Morales,fernanda.gomez.morales21@mail.com,5331586923,Valparaíso,Chile,2026-05-13 02:27:36,recurrente,2026-08-17 00:00:00
+26,CUST-00018,Johana Patricia Romero García,johana.patricia.romero.garcia18@mail.com,5427849808,Guayaquil,ecuador,2026-06-30 02:52:43,inactivo,2026-06-30 02:52:43
+27,CUST-00057,Rodolfo Gómez,rodolfo.gomez57@mail.com,4556238692,Quito,Ecuador,2026-06-08 00:25:29,recurrente,2026-06-08 00:25:29
+28,CUST-00055,Ignacio Ramón Mendoza,ignacio.ramon.mendoza55@mail.com,262174596,Santiago,Chile,2025-03-15 06:21:37,nuevo,2025-06-07 10:38:37
+29,CUST-00050,Sofía Ríos,sofia.rios50@mail.com,385977034,Buenos Aires,Argentina,2025-01-06 14:02:49,nuevo,2025-01-06 14:02:49
+30,CUST-00035,Mercedes Moreno,mercedes.moreno35@mail.com,1937452991,Arequipa,peru,2025-05-03 20:16:27,recurrente,2025-11-02 11:28:27
+31,CUST-00042,Milena Gloria Suárez Toro,milena.gloria.suarez.toro42@mail.com,4008427109,Buenos Aires,Argentina,2025-03-08 12:41:45,vip,2025-03-08 12:41:45
+32,CUST-00053,Reinaldo Alfonso Fonseca,reinaldo.alfonso.fonseca53@mail.com,4997278755,Trujillo,Perú,2026-01-13 00:46:55,nuevo,2026-03-13 21:33:55
+33,CUST-00032,Jesús Jhon Galindo,jesus.jhon.galindo32@mail.com,8893734670,Concepción,Chile,2025-12-30 13:04:56,recurrente,2025-12-30 13:04:56
+34,CUST-00014,María Adiela Perea,maria.adiela.perea14@mail.com,3267736026,Bogotá,Colombia,2026-05-29 14:50:30,nuevo,2026-05-29 14:50:30
+35,CUST-00023,Sofía Castillo,sofia.castillo23@mail.com,1458685014,Cali,Colombia,2025-11-08 14:15:13,nuevo,2026-05-29 01:45:13
+36,CUST-00033,Marisol Villegas Puentes,marisol.villegas.puentes33@mail.com,6990162720,Buenos Aires,Argentina,2026-06-13 09:24:06,vip,2026-08-17 00:00:00
+37,CUST-00031,Liliana Ana Rojas Guerrero,liliana.ana.rojas.guerrero31@mail.com,8760366909,Guayaquil,Ecuador,2026-04-09 05:52:12,nuevo,2026-04-09 05:52:12
+38,CUST-00039,Dolores Irma Holguín Molina,dolores.irma.holguin.molina39@mail.com,9480831367,Ciudad de México,México,2026-04-11 05:08:10,recurrente,2026-06-25 20:05:10
+39,CUST-00024,Carlos Ybarra Puente,carlos.ybarra.puente24@mail.com,5698169340,Monterrey,mexico,2025-06-15 03:38:45,recurrente,2025-06-15 03:38:45
+40,CUST-00005,Ángela Ortiz Velandia,angela.ortiz.velandia5@mail.com,5030564139,Buenos Aires,Argentina,2026-03-12 22:21:58,nuevo,2026-05-05 16:47:58
+41,CUST-00015,Jorge Gustavo Ariza Páez,jorge.gustavo.ariza.paez15@mail.com,2343098050,Lima,Peru,2025-06-30 19:32:11,inactivo,2025-06-30 19:32:11
+42,CUST-00030,Antonio Antonio Henao Castañeda,antonio.antonio.henao.castaneda30@mail.com,3471434558,Medellín,Colombia,2026-05-03 08:26:31,nuevo,2026-08-17 00:00:00
+43,CUST-00029,Cornelio Reyes,cornelio.reyes29@mail.com,7889579868,Puebla,MX,2025-03-12 14:40:27,vip,2025-03-25 23:11:27
+44,CUST-00043,Enrique Joel Muñoz Prieto,enrique.joel.munoz.prieto43@mail.com,1671902294,Bucaramanga,Colombia,2025-04-08 16:20:45,nuevo,2025-04-08 16:20:45
+45,CUST-00060,Jazmín Navarro,jazmin.navarro60@mail.com,909743953,Córdoba,Argentina,2025-04-19 21:11:14,recurrente,2025-04-19 21:11:14
+46,CUST-00049,Javier Enrique Camacho Andrade,javier.enrique.camacho.andrade49@mail.com,6746807154,Lima,Peru,2026-04-02 22:52:09,recurrente,2026-04-02 22:52:09
+47,CUST-00019,Luis González,luis.gonzalez19@mail.com,4493534874,Quito,Ecuador,2026-04-19 03:01:29,recurrente,2026-04-19 03:01:29
+48,CUST-00011,Luis David Quintero Fernández,luis.david.quintero.fernandez11@mail.com,9301031051,Barranquilla,Colombia,2026-02-21 12:00:58,nuevo,2026-03-14 10:01:58
+49,CUST-00021,Fernanda Gómez Morales,fernanda.gomez.morales21@mail.com,5331586923,Valparaíso,Chile,2026-05-13 02:27:36,recurrente,2026-05-13 02:27:36
+50,CUST-00026,Víctor Rufino Madera Palomino,victor.rufino.madera.palomino26@mail.com,4436995777,Guadalajara,México,2026-08-02 15:36:04,recurrente,2026-08-02 15:36:04
+51,CUST-00007,Myriam Gabriela Sánchez,myriam.gabriela.sanchez7@mail.com,6916697848,Lima,Perú,2026-08-13 09:11:40,vip,2026-08-17 00:00:00
+52,CUST-00046,Andrés David Ortiz Mercado,andres.david.ortiz.mercado46@mail.com,6183242102,Quito,Ecuador,2026-07-08 18:19:55,recurrente,2026-07-08 18:19:55
+53,CUST-00008,Brayan Herrera,brayan.herrera8@mail.com,6270482814,Guayaquil,Ecuador,2025-09-22 06:43:45,nuevo,2026-03-11 14:52:45
+54,CUST-00060,Jazmín Navarro,jazmin.navarro60@mail.com,909743953,Córdoba,Argentina,2025-04-19 21:11:14,recurrente,2025-04-19 21:11:14
+55,CUST-00002,Ricardo Perea,ricardo.perea2@mail.com,7940265423,Guadalajara,México,2025-04-19 09:10:31,vip,2025-04-19 09:10:31
+56,CUST-00017,Fidel Alberto Becerra,fidel.alberto.becerra17@mail.com,4624751079,Lima,Perú,2025-10-15 12:40:24,recurrente,2025-11-21 07:35:24
+57,CUST-00001,María Marcela Torres,maria.marcela.torres1@mail.com,8196001338,Quito,Ecuador,2025-01-20 10:14:03,vip,2025-04-21 23:46:03
+58,CUST-00016,María Palacios Melo,maria.palacios.melo16@mail.com,9136193990,Valparaíso,Chile,2025-12-19 04:10:50,recurrente,2026-01-24 13:38:50
+59,CUST-00006,James Franco Sánchez,james.franco.sanchez6@mail.com,3884969653,Guayaquil,Ecuador,2025-06-21 05:18:39,recurrente,2025-10-13 07:25:39
+60,CUST-00012,Alberto Carlos Rubio Jaramillo,alberto.carlos.rubio.jaramillo12@mail.com,3763116566,Santiago,Chile,2026-03-05 18:46:59,nuevo,2026-03-05 18:46:59
+61,CUST-00010,Nicolás Herney Lozano Hernández,nicolas.herney.lozano.hernandez10@mail.com,8248963834,Cali,Colombia,2025-09-25 03:47:57,recurrente,2026-02-19 11:54:57
+62,CUST-00009,José Manuél Emiliano Tirado Tamez,jose.manuel.emiliano.tirado.tamez9@mail.com,9570154303,Monterrey,México,2025-03-21 09:20:15,nuevo,2025-03-21 09:20:15
+63,CUST-00013,Alejandra Herrera,alejandra.herrera13@mail.com,3338726247,Guayaquil,Ecuador,2026-03-25 10:37:26,nuevo,2026-03-25 10:37:26
+64,CUST-00044,Ricardo Mercado Torres,ricardo.mercado.torres44@mail.com,7749649909,Concepción,Chile,2025-05-09 06:11:22,nuevo,2025-05-09 06:11:22
+65,CUST-00038,Miguel Yeison Vega Ruiz,miguel.yeison.vega.ruiz38@mail.com,1473799650,Quito,Ecuador,2025-04-29 17:07:49,recurrente,2025-04-29 17:07:49
