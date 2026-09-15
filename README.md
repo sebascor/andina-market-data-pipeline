@@ -308,9 +308,7 @@ Construido en Databricks AI/BI Dashboards, consumiendo directo de 2 de las 3 tab
 |---|---|---|---|
 | Revenue mensual por canal | Bar chart apilado | `gold_revenue_by_period_channel_country` | X: `period_week` (agrupado por mes en la UI), Y: `total_revenue`, Group by: `channel` |
 | Revenue total por país | Bar chart horizontal | `gold_revenue_by_period_channel_country` | X: `SUM(total_revenue)` agregado por país en el propio widget, Y: `country` |
-| Volumen total de pedidos por mes | Bar chart | `gold_order_health` | X: `period_month`, Y: `total_orders` |
 | Tendencia de cancelación | Line chart | `gold_order_health` | X: `period_month`, Y: `cancellation_rate_pct` |
-| Tendencia de tiempo de ciclo | Line chart | `gold_order_health` | X: `period_month`, Y: `avg_cycle_time_hours` |
 
 **Decisión de diseño del dashboard — sin ejes duales:** cancelación y tiempo de ciclo se muestran como dos gráficos de línea separados (un eje cada uno), no combinados en un solo combo chart con doble eje Y. Un gráfico con dos escalas distintas en el mismo eje es una práctica de visualización desaconsejada — dificulta la lectura y puede sugerir correlaciones falsas entre dos métricas con unidades no comparables (%, horas).
 
